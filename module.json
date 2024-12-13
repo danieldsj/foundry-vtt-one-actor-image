@@ -1,11 +1,11 @@
 {
   "id": "one-actor-image",
   "title": "One Actor Image",
-  "description": "A module created to ensure that the Actor's portrait and token image are always the same image.",
+  "description": "A module created to ensure that the Actor's portrait and token image are always the same image, and that all tokens on the canvas get updated with the same image.",
   "version": "0.0.1",
   "compatibility": {
     "minimum": 10,
-    "verified": 10
+    "verified": 11
   },
   "authors": [
     {
